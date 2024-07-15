@@ -198,58 +198,58 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "CalGram (Social Media)",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "TypeScript",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Three.js",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://ghttps://github.com/nick-n9/cal_gramthub.com/",
   },
   {
-    name: "Job IT",
+    name: "RestaruntMenu",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "react",
+        name: "ASP.NET core",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "MVC",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Rest Api",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://https://github.com/nick-n9/RestaruntMenu.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Movie.io",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Hooks",
         color: "green-text-gradient",
       },
       {
@@ -258,7 +258,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://https://github.com/nick-n9/Moive.io.com/",
   },
 ];
 
