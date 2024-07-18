@@ -200,7 +200,7 @@ const projects = [
   {
     name: "SnapGram (Social Media)",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Experience a next-gen social app built with React, TypeScript, and Appwrite. Features include infinite scrolling, personalized profiles, and seamless navigation.",
     tags: [
       {
         name: "React",
@@ -221,7 +221,7 @@ const projects = [
   {
     name: "RestaruntMenu",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A web application facilitating contactless, seamless ordering at restaurants, offering customizable dish options for each customer.",
     tags: [
       {
         name: "ASP.NET core",
@@ -242,18 +242,18 @@ const projects = [
   {
     name: "Movie.io",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An advanced online catalog featuring 133,000 movies, TV shows, and entertainment, Loaded with a modern design and enhanced animations.",
     tags: [
       {
         name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "Hooks",
+        name: "OMDB API",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Css",
         color: "pink-text-gradient",
       },
     ],
