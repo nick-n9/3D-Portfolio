@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Student",
+    title: "Entry-Level Developer",
     icon: creator,
   },
 ];
@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
   {
     title: "Software Engineer Intern",
-    company_name: "TheQuickSoft Technologies",
+    company_name: "DynoTree Technologies",
     icon: starbucks,
     iconBg: "#383E56",
     date: "May 2024 - Present",
