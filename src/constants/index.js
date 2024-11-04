@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Student",
+    title: "Entry-Level Developer",
     icon: creator,
   },
 ];
@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
   {
     title: "Software Engineer Intern",
-    company_name: "Dynotree Technologies",
+    company_name: "TheQuickSoft Technologies",
     icon: starbucks,
     iconBg: "#383E56",
     date: "May 2024 - Present",
@@ -221,7 +221,7 @@ const projects = [
   {
     name: "RestaruntMenu",
     description:
-      "A web application facilitating contactless, seamless ordering at restaurants, offering customizable dish or menu options for each customer.",
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
         name: "ASP.NET core",
@@ -249,7 +249,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "OMDB Api",
+        name: "Hooks",
         color: "green-text-gradient",
       },
       {
